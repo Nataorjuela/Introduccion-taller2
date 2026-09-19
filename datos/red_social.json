@@ -1,0 +1,13 @@
+{
+  "Ana": ["Bruno", "Carla", "Elena"],
+  "Bruno": ["Ana", "Diana", "Felipe"],
+  "Carla": ["Ana", "Felipe", "Gabriel"],
+  "Diana": ["Bruno", "Helena"],
+  "Elena": ["Ana", "Isabel"],
+  "Felipe": ["Bruno", "Carla", "Helena"],
+  "Gabriel": ["Carla", "Jorge"],
+  "Helena": ["Diana", "Felipe", "Karen"],
+  "Isabel": ["Elena", "Karen"],
+  "Jorge": ["Gabriel", "Karen"],
+  "Karen": ["Helena", "Isabel", "Jorge"]
+}

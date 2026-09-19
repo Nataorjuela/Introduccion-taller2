@@ -52,5 +52,5 @@ Cada busqueda retorna un diccionario con:
 - `orden_expansion`: usuarios extraidos de la frontera.
 - `nodos_expandidos`: cantidad de usuarios expandidos.
 - `nodos_generados`: cantidad de usuarios agregados a la frontera.
-- `frontera_maxima`: tamano maximo de la cola o pila.
+- `frontera_maxima`: tamaño maximo de la cola o pila.
 
